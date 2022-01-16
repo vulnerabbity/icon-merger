@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-require('../icon-merger')();
+require('../icon-merger');
